@@ -1,0 +1,84 @@
+.container{
+    margin-bottom: 100px;
+}
+.btn-color{
+    background-color: rgb(77, 76, 76);
+    color: white;
+}
+.btn:hover{
+    color: black;
+    background-color: rgb(175, 171, 171);
+}
+    
+
+.card{
+    border: none;
+    border-radius: 15px;
+    margin: 12px 12px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 9px 20px;
+    
+    height: 600px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.underline-block {
+    width: 115px;
+    height: 8px;
+    border-radius: 10px;
+   
+    background-image: linear-gradient(to right, #ff8206, #ffff00);
+} 
+.categories-border{
+    border: solid 1px rgb(232, 231, 231);
+    width:250px;
+    height: 250px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
+.categories-border-radius-1 {
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius:10px ;
+    border-bottom-right-radius: 20px;
+}
+.categories-border-radius-2 {
+    border-top-right-radius: 10px;
+    border-bottom-left-radius:10px ;
+    border-top-left-radius:20px ;
+    border-bottom-right-radius: 20px;
+}
+.back{
+    background-color: grey;
+    height: 35px;
+    
+}
+.back:hover{
+    
+    background-color: rgb(85, 83, 83);
+}
+.a-home{
+    text-decoration: none;
+    color: white;
+    
+}
+.a-home:hover{
+    color: white;
+}
+.Subscribe{
+    background-color: #37475A;
+}
+.Subscribe p{
+    color: rgb(133, 118, 118);
+}
+.btn-subscribe{
+    background-color: rgb(242, 235, 235);
+    height: 35px;
+    
+}
+.email{
+    height: 35px;
+    
+    width: 200px;
+}
